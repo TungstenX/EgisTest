@@ -42,7 +42,7 @@ public class EgisTestUnitTest {
 
     /**
      * Quick test to pass to demonstrate successful PR, in RL it will test go()<p>
-     * This will test on of the helper functions
+     * This will test one of the private helper functions using reflection
      */
     @Test
     public void successTest() {
