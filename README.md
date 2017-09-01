@@ -1,4 +1,5 @@
-# EgisTest
+[![Build Status](https://travis-ci.org/TungstenX/EgisTest.svg?branch=ForReview)](https://travis-ci.org/TungstenX/EgisTest)
+# EgisTest 
 Proof of skills for Egis
 
 Find me on [stackoverflow](http://stackoverflow.com/users/537566/tungstenx)
